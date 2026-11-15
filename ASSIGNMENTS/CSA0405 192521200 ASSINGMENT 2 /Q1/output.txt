@@ -1,0 +1,31 @@
+
+Child 1 created. PID: 1821, Parent PID: 1817
+
+--- Process Information ---
+
+Child PID: 1821
+Name: a.out
+State: S (sleeping)
+Pid: 1821
+PPid: 1817
+
+Using ps command:
+PID    PPID   S   COMMAND
+1821   1817   S   a.out
+
+Child 2 created. PID: 1822, Parent PID: 1817
+
+Child PID: 1822
+Name: a.out
+State: S (sleeping)
+Pid: 1822
+PPid: 1817
+
+Using ps command:
+PID    PPID   S   COMMAND
+1822   1817   S   a.out
+
+Child 1 terminated. PID: 1821
+Child 2 terminated. PID: 1822
+
+Parent Process: All children completed.
