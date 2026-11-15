@@ -1,0 +1,3 @@
+Producers: 4, Consumers: 4
+Items consumed: 80
+Sum = 3240 (expected 3240)
