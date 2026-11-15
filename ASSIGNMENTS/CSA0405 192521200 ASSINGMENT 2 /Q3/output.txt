@@ -1,0 +1,18 @@
+TRAFFIC CAMERA THREAD PERFORMANCE
+Number of cameras: 64
+
+Sequential processing: [measured time] seconds
+
+One thread per camera (64 threads): [measured time] seconds
+Speed-up: [calculated value]x
+
+Thread pool (4 threads): [measured time] seconds
+Speed-up: [calculated value]x
+
+Thread pool (8 threads): [measured time] seconds
+Speed-up: [calculated value]x
+
+Thread pool (16 threads): [measured time] seconds
+Speed-up: [calculated value]x
+
+Verification checksum: [calculated value]
